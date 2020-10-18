@@ -9,7 +9,6 @@ v1.3 -
 * Added Set As Ringtone
 * Added Collapsing Header with Sort and List Type
 
-
 * Fixed Equalizer backgound playback
 * Fixed Pause on bluetooth or headphone disconnect
 * Fixed Play song from file manager
