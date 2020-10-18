@@ -1,0 +1,56 @@
+Changelog
+
+v1.3 - 
+
+* 
+* 
+* 
+* 
+* 
+* Fixed 
+* Fixed 
+* Fixed 
+* Fixed 
+* Fixed 
+* Fixed 
+* Fixed Equalizer backgound playback
+* Fixed Pause on bluetooth or headphone disconnect
+* Fixed Play song from file manager
+
+* 
+* 
+* 
+* 
+* 
+* Added 
+* Added 
+* Added 
+* Added 
+* Added Notification QS Tile
+* Added Settings Play On Startup
+* Added Settings hide status bar
+* Added Settings wallpaper mode
+* Added Widgets White, Black and Auto
+* Added Song Delete 
+* Added Set As Ringtone
+* Added Collapsing Header with Sort and List Type
+
+------------------------------------
+
+v1.2 - Sep 20 2020
+* Added Wallpaper Mode
+* Create Playlist Fixed
+* Enhancements and Fixes
+
+------------------------------------
+
+v1.1 - Sep 1 2020
+* Added Artist Search
+* Fixes & Enhancements
+
+------------------------------------
+
+v1.0 - Aug 19 2020
+* Initial Release - Music 7 Pro
+
+------------------------------------
