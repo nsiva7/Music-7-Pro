@@ -1,5 +1,5 @@
+
 v1.3 - 
-* Added Changelog
 * Added Notification QS Tile
 * Added Settings Play On Startup
 * Added Settings hide status bar
@@ -9,9 +9,10 @@ v1.3 -
 * Added Set As Ringtone
 * Added Collapsing Header with Sort and List Type
 
-* Fixed Equalizer backgound playback
 * Fixed Pause on bluetooth or headphone disconnect
+* Fixed Equalizer backgound playback
 * Fixed Play song from file manager
+* Enhancements and Fixes
 
 ------------------------------------
 
