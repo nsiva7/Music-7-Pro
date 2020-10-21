@@ -1,5 +1,5 @@
 
-v1.3 - 
+v1.3 - Oct 22 2020
 * Added Notification QS Tile
 * Added Settings Play On Startup
 * Added Settings hide status bar
