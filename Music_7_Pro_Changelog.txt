@@ -1,5 +1,6 @@
 
 v1.3 - 
+* Sample
 * Added Notification QS Tile
 * Added Settings Play On Startup
 * Added Settings hide status bar
