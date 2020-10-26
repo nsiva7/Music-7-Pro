@@ -1,6 +1,6 @@
 
 v1.4 - Not Released Yet
-* Added Multiple Fonts
+* Added Themes Font Selection
 * Added Playlist Add and Remove Songs
 
 * Fixed Songs List Cache Fix
