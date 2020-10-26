@@ -1,7 +1,7 @@
 
 v1.4 - Not Released Yet
 * Added Multiple Fonts
-* Added Playlist Add and Remove Songs.
+* Added Playlist Add and Remove Songs
 
 * Fixed Songs List Cache Fix
 * Enhancements and Fixes
