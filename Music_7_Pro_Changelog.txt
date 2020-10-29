@@ -4,6 +4,7 @@ v1.4 - Not Released Yet
 * Added Playlist Add and Remove Songs
 
 * Fixed Songs List Cache Fix
+* Fixed Sorting
 * Enhancements and Fixes
 
 ------------------------------------
