@@ -1,5 +1,5 @@
 
-v1.4 - Not Released Yet
+v1.4 - Oct 29 2020
 * Added Themes Font Selection
 * Added Playlist Add and Remove Songs
 
