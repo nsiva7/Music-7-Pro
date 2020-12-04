@@ -1,4 +1,16 @@
 
+v1.5 - Releasing Soon.
+* Added Dynamic Shuffle
+* Added Queue Reorder & Remove Song
+* Added Released for Android TV
+* Added Cast To TV
+
+* Fixed Play Previous Song
+* Fixed Lock Screen Album Art
+* Enhancements and Fixes
+
+------------------------------------
+
 v1.4 - Oct 29 2020
 * Added Themes Font Selection
 * Added Playlist Add and Remove Songs
@@ -15,7 +27,7 @@ v1.3 - Oct 22 2020
 * Added Settings hide status bar
 * Added Settings wallpaper mode
 * Added Widgets White, Black and Auto
-* Added Song Delete 
+* Added Song Delete
 * Added Set As Ringtone
 * Added Collapsing Header with Sort and List Type
 
