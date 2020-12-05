@@ -1,5 +1,5 @@
 
-v1.5 - Releasing Soon.
+v1.5 - Dec 5 2020
 * Added Dynamic Shuffle
 * Added Queue Reorder & Remove Song
 * Added Released for Android TV
