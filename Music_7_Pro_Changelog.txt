@@ -1,4 +1,12 @@
 
+v1.6 - Releasing Soon
+* Added Player Glassio
+* Added Player Triangles
+
+* Enhancements and Fixes
+
+------------------------------------
+
 v1.5 - Dec 5 2020
 * Added Dynamic Shuffle
 * Added Queue Reorder & Remove Song
