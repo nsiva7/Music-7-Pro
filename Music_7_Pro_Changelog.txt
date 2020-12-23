@@ -3,6 +3,7 @@ v1.6 - Releasing Soon
 * Added Player Glassio
 * Added Player Triangles
 
+* Fixed Widgets Loading
 * Enhancements and Fixes
 
 ------------------------------------
@@ -10,7 +11,6 @@ v1.6 - Releasing Soon
 v1.5 - Dec 5 2020
 * Added Dynamic Shuffle
 * Added Queue Reorder & Remove Song
-* Added Released for Android TV
 * Added Cast To TV
 
 * Fixed Play Previous Song
