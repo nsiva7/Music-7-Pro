@@ -1,5 +1,10 @@
 
-v1.6 - Releasing Soon
+v1.7 - Releasing Soon
+* Fixed Themes Purchase
+
+------------------------------------
+
+v1.6 - Dec 25 2020
 * Added Player Glassio
 * Added Player Triangles
 
