@@ -1,5 +1,13 @@
 
-v1.7 - Releasing Soon
+v1.8 - Dec 31 2020
+* Added Tag Editor
+
+* Improved App Opening Speed
+* Enhancements and Fixes
+
+------------------------------------
+
+v1.7 - Dec 26 2020
 * Fixed Themes Purchase
 
 ------------------------------------
