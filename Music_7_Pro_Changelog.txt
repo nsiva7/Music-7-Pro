@@ -1,4 +1,10 @@
 
+v1.9 - Releasing Soon
+* Android 11(R) Compatibility
+* Album Songs UI Improved
+* Enhancements and Fixes
+
+------------------------------------
 v1.8 - Dec 31 2020
 * Added Tag Editor
 
