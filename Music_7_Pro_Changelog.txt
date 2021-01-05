@@ -1,5 +1,5 @@
 
-v1.9 - Releasing Soon
+v1.9 - Jan 3 2021
 * Android 11(R) Compatibility
 * Album Songs UI Improved
 * Enhancements and Fixes
