@@ -1,4 +1,16 @@
 
+v1.0.11 - Releasing Soon
+* Added Animated Background
+* Added Crash Catcher
+* Fixed No Songs Found on some devices
+* Enhancements and Fixes
+
+------------------------------------
+
+v1.10 - Jan 12 2021
+* Added Playback Speed Configurable
+* Enhancements and Fixes
+
 ------------------------------------
 
 v1.9 - Jan 3 2021
