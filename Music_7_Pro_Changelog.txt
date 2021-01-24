@@ -1,5 +1,11 @@
 
-v1.0.11 - Releasing Soon
+v1.0.12 - Releasing Soon
+* Fixed Wallpaper Mode Colors
+* Enhancements and Fixes
+
+------------------------------------
+
+v1.0.11 - Jan 24 2021
 * Added Animated Background
 * Added Crash Catcher
 * Fixed No Songs Found on some devices
