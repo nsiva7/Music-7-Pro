@@ -1,5 +1,6 @@
 
 v1.0.12 - Releasing Soon
+* Added Player Circuit Board
 * Fixed Wallpaper Mode Colors
 * Enhancements and Fixes
 
