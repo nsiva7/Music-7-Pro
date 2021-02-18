@@ -1,5 +1,14 @@
 
-v1.0.13 - Releasing Soon
+v1.0.14 - Feb 14 2021
+* Added Animated Background (Rainbow)
+* Added Settings save playback settings
+* Fixed App start lag on some devices
+* Fixed Sleep remaining time display
+* Enhancements and Fixes
+
+------------------------------------
+
+v1.0.13 - Jan 29 2021
 * Added App Shortcuts
 * Fixed Crash on Redmi Devices
 * Enhancements and Fixes
