@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="service_music_play_headphone_on">Headphone connected (%1$s)</string>
+    <string name="service_music_play_headphone_off">Headphone disconnected</string>
+
+    <!--    Translation Difficult   -->
+    <string name="thank_you">Thank you\nfor installing\nMusic 7 Pro\n\nWe\nListen to you,\nlet us know if anything about Music 7 Pro\n\nYour suggestions and feedback appreciated\n\nRate Music 7 Pro with your lovely review and make developer happy with small donation.</string>
+    <string name="rate_music_7_desc">Show your love on Music 7 Pro with 5 star rating and lovely review.</string>
+    <string name="promote_desc">Let your friends you are enjoying music with Music 7 Pro.\nShare app and help us reaching the world!</string>
+    <string name="donate_desc">Music 7 Pro Team is working hard to provide lot of new features to you \n help and make them happy with your small donation.</string>
+    <string name="media_details_not_found">Media details not found. Please reopen Music 7 Pro and play again.</string>
+    <string name="player_default_desc">Music 7 default player with nice look and UI interactions.</string>
+    <string name="new_update_desc">Update Music 7 Pro and enjoy new features.</string>
+    <string name="refer_friends_desc">Music 7 Pro\nThe new and ultimate music player.\n\n</string>
+    <string name="music7Equalizer">Music 7 Equalizer</string>
+    <string name="donation_desc"><b>Friend</b>\nWe look forward for your donation and we will be very happy.\nPlease support us.</string>
+    <string name="developed_by_siva_nimmala">Developed by\u0020\u0020<b>Siva Nimmala</b></string>
+
+    <!--    Translation with Symbols    -->
+    <string name="thanks_for_coffee">Thank you donating for coffee.\n\nHave a good day.</string>
+    <string name="thanks_for_burger">Thank you soo much donating for burger.\n\nHave a great day.</string>
+    <string name="thanks_for_pizza">Dear Friend thank you soo much donating for pizza.\n\nWe will be very happy with your donation.\n\nHave a wonderful day.</string>
+    <string name="playerBGChoosedFromGallery">Player background selected from gallery.\nTo set device wallpaper change Wallpaper Mode.</string>
+    <string name="playOnStartupDesc">Music will be played automatically when app open.\nTip: Say \'Hey Google\' and say \'Open Music 7 Pro\', then app will open and start playing music.</string>
+    <string name="chooseEqualizerDesc">Select Music 7 Equalizer or Device Equalizer.\nUse Device Equalizer if your device do not support Music 7 Equalizer.</string>
+    <string name="greeting_desc">Thank you so much for supporting Music 7 Pro and reaching the world 🤗.\n\n
+A special thanks for who donated 🙏
+your donations motivated us to add new features and we are very happy to keep developing Music 7 Pro.\n\n
+
+🙏🤗🤗😍🥰🥳🎂🎉🎊😊\\
+\n....... Music 7 Pro Team ......</string>
+    <string name="playbackSpeedDesc">Audio playback speed will change (Default 1.0).\nChange and have fun..!</string>
+    <string name="songs_removed">\" songs removed\"</string>
+    <string name="songs_added">\" songs added\"</string>
+    <string name="casting_to_device">Casting to %1$s</string>
+    <string name="browse_musics_by_genre_subtitle">%1$s songs</string>
+    <string name="try_fluid_desc">Fluid is an amazing visual effect will give more entertainment to you, Various fluid types available in settings.\nEnjoy…!</string>
+
+    <!--    With Value  -->
+    <string name="speed">Speed %s</string>
+    <string name="besignBy">"Design by %s"</string>
+
+    <!--Tabs Names-->
+    <string name="atoz">All Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="genres">Genres</string>
+    <string name="playlists">Playlists</string>
+    <string name="favourites">Favourites</string>
+    <string name="music_stream">Stream</string>
+    <string name="online_music">Online</string>
+    <string name="recently_added">New Songs</string>
+    <string name="recently_played">Recent</string>
+    <string name="folders">Folders</string>
+
+
+    <!--  SlideMenu List  -->
+    <string name="themes">Themes</string>
+    <string name="exit">Exit</string>
+    <!--  SlideMenu List - End  -->
+
+
+    <string name="no_songs">No Songs Found</string>
+    <string name="create">Create</string>
+
+    <!-- Flowing Drawer Menu -->
+    <string name="fdm_lib">Library</string>
+    <string name="fdm_themes">Themes</string>
+    <string name="fdm_layouts">Layouts</string>
+    <string name="fdm_refer_friends">Refer Friends</string>
+    <string name="fdm_sleep">Sleep</string>
+    <string name="fdm_rate">Rate</string>
+    <string name="fdm_more">More</string>
+    <string name="fdm_about">About</string>
+    <string name="fdm_settings">Settings</string>
+    <string name="fdm_minimize">Minimize</string>
+    <string name="fdm_feedback">Feedback</string>
+    <string name="fdm_get_more_apps">Get More Apps</string>
+    <string name="fdm_quit">Quit</string>
+
+    <string name="visualizations">Visualizations</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="favorite">Favorite</string>
+
+
+    <string name="remove">Remove</string>
+    <string name="test">Test</string>
+    <string name="ok">OK</string>
+    <string name="tag_not_found">Unknown</string>
+    <string name="not_found">Not Found</string>
+
+
+    <string name="stop_casting">Stop Casting</string>
+    <string name="error_no_metadata">Unable to retrieve metadata.</string>
+    <string name="no_search_results">No search results.</string>
+    <string name="random_queue_title">Random music</string>
+    <string name="error_loading_media">Error Loading Media</string>
+
+    <string name="browse_genres">Genres</string>
+    <string name="browse_genre_subtitle">Songs by genre</string>
+    <string name="browse_artists">Artists</string>
+    <string name="browse_artist_subtitle">Songs by artist</string>
+    <string name="browse_albums">Albums</string>
+    <string name="browse_album_subtitle">Songs by album</string>
+
+    <string name="search_hint">Enter Song, Album, Artist, Genre</string>
+    <string name="queue">Queue</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="retry">Retry</string>
+
+    <string name="sample_text">Sample Text</string>
+    <string name="find_duplicates">Find Duplicates</string>
+    <string name="layouts">Layouts</string>
+    <string name="defaultName">Default</string>
+    <string name="plain">Plain</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="outline">Outline</string>
+    <string name="background">Background</string>
+    <string name="animatedBG">Animated BG</string>
+    <string name="animatedBackground">Animated Background</string>
+    <string name="themeBGDesc">Background will applied to player and other places.</string>
+    <string name="info">Info</string>
+    <string name="add_to_playlist">Add To Playlist</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="enter_playlist_name">Enter Playlist Name</string>
+    <string name="no_equalizer">No equalizer found</string>
+    <string name="no_audio_ID">Play a song and try again.</string>
+    <string name="choose_equalizer">Choose Equalizer</string>
+    <string name="check_storage_permission">Check Storage Permission</string>
+    <string name="check_ignored_media">Check Ignored Media</string>
+    <string name="ignored_folders">Ignored Media</string>
+    <string name="no_ignored_folders">No Ignored Folders Found</string>
+    <string name="storage_perms_available">Storage Permissions Available..!</string>
+    <string name="fluid">Fluid</string>
+    <string name="fluidDesc">Enable fluid effect, A special effect will display when screen touched.</string>
+    <string name="play_next">Play Next</string>
+    <string name="add_to_playing_queue">Add To Playing Queue</string>
+    <string name="share">Share</string>
+    <string name="details">Details</string>
+    <string name="addedToQueue">Added to Playing Queue</string>
+    <string name="addedToPlaylist">Added To Playlist</string>
+    <string name="playlistCreated">Playlist Created</string>
+    <string name="songShareTitle">Share Song</string>
+    <string name="select">Select</string>
+    <string name="selected">Selected</string>
+    <string name="selectPlayerLayout">Select Player Design</string>
+    <string name="btnTry">Try</string>
+    <string name="btnBuy">Buy</string>
+    <string name="donate">Donate</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="later">Later</string>
+    <string name="switch_night_mode">Switch Night Mode</string>
+    <string name="switch_day_mode">Switch Day Mode</string>
+    <string name="switch_auto_mode">Switch Auto Mode</string>
+    <string name="switch_wallpaper_mode">Switch Wallpaper Mode</string>
+    <string name="mode_auto">Auto</string>
+    <string name="mode_night">Night</string>
+    <string name="mode_day">Day</string>
+    <string name="mode_wallpaper">Wallpaper</string>
+    <string name="no_internet">Internet is not available, enable internet and try again.</string>
+    <string name="rate_music_7">Rate</string>
+    <string name="not_now">Not Now</string>
+    <string name="rated_already">Rated Already</string>
+    <string name="never">Never</string>
+    <string name="selectSongList">Select Song List Layout</string>
+    <string name="promote">Promote</string>
+    <string name="try_theme_player">Try Another Player Design</string>
+    <string name="try_theme_player_desc">We have developed many player designs for you try a player which you like.</string>
+    <string name="try_theme_anim_bg">Try Animated Background</string>
+    <string name="try_theme_anim_bg_desc">Change your player background with beautiful animated backgrounds</string>
+    <string name="try_theme_list">Try Another Song List Designs</string>
+    <string name="try_theme_list_desc">Change your songs list with new style of designs which will give different look to your songs.</string>
+    <string name="try_fluid">Fluid - Awesome Screen Touch Effects..!</string>
+    <string name="tryText">Try</string>
+    <string name="buyFluid">Buy Fluid and use various Fluid types.</string>
+    <string name="player">Player</string>
+    <string name="rememberSelection">Remember Selection</string>
+    <string name="back_press_msg">Do you like to minimize app or exit app ?</string>
+    <string name="add_to_favorite">Add To Favorites</string>
+    <string name="noAudioFocus">You are in call. Play after</string>
+    <string name="suggestion_feedback">Suggestion/Feedback</string>
+    <string name="report_issue_bug">Report Issue/Bug</string>
+    <string name="get_more_apps">Get More Apps</string>
+    <string name="refer_friends">Refer Friends</string>
+    <string name="donate_pizza">Donate Pizza</string>
+    <string name="donate_burger">Donate Burger</string>
+    <string name="donate_coffee">Donate Coffee</string>
+    <string name="internet_required">Internet connection is required to restore purchases.</string>
+    <string name="visualization_full_screen">Long Press Visualization for Full Screen</string>
+    <string name="dont_modify">Warning.. do not try to modify this app..!</string>
+    <string name="update">Update</string>
+    <string name="deviceEqualizer">Device Equalizer</string>
+    <string name="songs">Songs</string>
+    <string name="round">Round</string>
+    <string name="colorful">Colorful</string>
+
+
+    <!--    Sort Types    -->
+    <string name="title_asc">Title Ascending</string>
+    <string name="title_desc">Title Descending</string>
+    <string name="album_asc">Album Ascending</string>
+    <string name="album_desc">Album Descending</string>
+    <string name="artist_asc">Artist Ascending</string>
+    <string name="artist_desc">Artist Descending</string>
+    <string name="track_number_asc">Track Number Ascending</string>
+    <string name="track_number_desc">Track Number Descending</string>
+    <string name="date_added_asc">Date Added Ascending</string>
+    <string name="date_added_desc">Date Added Descending</string>
+    <string name="year_asc">Year Ascending</string>
+    <string name="year_desc">Year Descending</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+
+    <!--    Other   -->
+    <string name="setAsRingtone">Set As Ringtone</string>
+    <string name="wallpaper_mode">Wallpaper Mode</string>
+    <string name="wallpaperModeDesc">Device wallpaper will be applied to player background. You can also choose from gallery.</string>
+    <string name="modeDesc">User Interface will be changed to particular mode.</string>
+    <string name="chooseFromGallery">Choose From Gallery</string>
+    <string name="hideStatusBar">Hide Status Bar</string>
+    <string name="hideStatusBarDesc">Hides device status bar and provide full screen experience.</string>
+    <string name="hide_album_art">Hide Album Art</string>
+    <string name="play_on_startup">Play On Startup</string>
+    <string name="changelog">Changelog</string>
+    <string name="changelogFetchError">Unable to get changelog try again after sometime.</string>
+    <string name="fluidType">Fluid Type</string>
+    <string name="disableOtherEqualizer">Use Device Equalizer or disable other equalizer and try again.</string>
+    <string name="add_music_to_playlist">Add Music To Playlist</string>
+    <string name="removeFromPlaylist">Remove From Playlist</string>
+    <string name="search">Search</string>
+    <string name="fonts">Fonts</string>
+    <string name="fontChangeNote">Changing font may affect UI alignments</string>
+
+
+    <!--channel publish customization-->
+    <string name="setting_page_title">Publish Channels</string>
+    <string name="setting_page_description">Toggle the check box</string>
+    <string name="setting_page_breadcrumb">Channel Customization</string>
+    <string name="channel_toggle_action_description">Toggle the checkbox</string>
+    <string name="channel_toggle_action_title">Choose channel</string>
+    <string name="channel_toggle_action_finish_desc">Click when you finished</string>
+    <string name="channel_toggle_action_finish_title">Publish</string>
+    <string name="finish_action_title">Done</string>
+    <string name="finish_action_description">Channel will be shown in main screen</string>
+    <string name="finish_action_clicked">Channel Customization Finished</string>
+    <string name="channel_removed_from_home_screen">Channel is removed from home screen</string>
+    <string name="cast">Cast</string>
+    <string name="reorder_queue">Reorder Queue</string>
+    <string name="more_features">More Features</string>
+    <string name="continueText">Continue</string>
+    <string name="stop">Stop</string>
+    <string name="castToTVBeta">Cast to TV Beta</string>
+    <string name="castToTVBetaDesc">Cast to TV may unstable, Please feedback if any bugs.</string>
+    <string name="noAlbumArt">Album art not available</string>
+
+    <string name="player_smart_desc">Smart player will give a smart look to your mobile with neat design.</string>
+    <string name="player_triangles_desc">Unique design with triangles gives different look to your device.</string>
+    <string name="player_glassio_desc">A beautiful glass design from concept of glassmorphism.</string>
+    <string name="player_music_drop_desc">Enjoy your classic player screen design with Music beat drop.</string>
+    <string name="player_premium_box_desc">Premium box is well organised design and enjoy each song with beautiful boxes.</string>
+    <string name="player_retro_desc">Select and enjoy music with sliding animated player.</string>
+    <string name="player_simple_desc">Simple player is a clean and beautiful design with edge curved options.</string>
+    <string name="player_frantic_desc">Frantic player with fancy look and clean user interface.</string>
+    <string name="player_deluxe_desc">Deluxe player is with full of options so easily we can select from all songs, albums, favorites, new songs and recent songs.</string>
+    <string name="player_circuit_board_desc">Amazing Circuit Board Design.</string>
+
+    <!--    New Update  -->
+    <string name="new_update">New Update Available</string>
+
+    <!--    New Features    -->
+    <string name="new_features">New Player Available..!</string>
+    <string name="new_features_desc">The new amazing player design Circuit Board is available try now.</string>
+
+    <!--    Greetings   -->
+    <string name="greeting_title">100k Installs…🥳</string>
+
+    <!--    Song Details  -->
+    <string name="song_details_album">Album :</string>
+    <string name="song_details_artist">Artist :</string>
+    <string name="song_details_path">Path :</string>
+    <string name="song_details_duration">Duration :</string>
+    <string name="song_details_size">Size :</string>
+    <string name="song_details_year">Year :</string>
+    <string name="song_details_bitrate">Bitrate :</string>
+    <string name="song_details_sample_rate">Sample rate :</string>
+    <string name="song_details_format">Format :</string>
+
+    <!--    Tag Editor  -->
+    <string name="tag_editor">Tag Editor</string>
+    <string name="title_text">Title</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="save">Save</string>
+
+    <string name="yes">Yes</string>
+    <string name="theme_expired">Get Theme</string>
+    <string name="theme_expired_desc">Do you like to get the amazing theme which you have tried ?</string>
+    <string name="unable_to_delete">Unable to Delete..!</string>
+    <string name="playbackSpeed">Playback Speed</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="modes">UI Mode</string>
+    <string name="saveSettings">Save Playback Settings</string>
+    <string name="saveSettingsDesc">Save playback settings of shuffle, repeat and playback position will be restored after app restart.</string>
+
+
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+    <string name="free">Free</string>
+    <string name="premium">Premium</string>
+    <string name="sortAtoZ">A - Z</string>
+    <string name="sortZtoA">Z - A</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="play_song_and_try_again">Play song and try again.</string>
+
+    <!--    Playlist    -->
+    <string name="playlist_created">Playlist Created</string>
+    <string name="one_song_removed">One song removed</string>
+    <string name="no_songs_added">No songs added</string>
+    <string name="one_song_added">One song added</string>
+
+    <string name="choose_language">Choose Language</string>
+    <string name="choose_language_desc">Change app language.</string>
+    <string name="language">Language :</string>
+
+</resources>
