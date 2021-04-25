@@ -1,4 +1,12 @@
 
+v1.1.0 - Releasing Soon..!
+* Added Rainbow Text (Settings)
+* Added Multi Language Support (Settings)
+* Added Player Racks
+* Enhancements and Fixes
+
+------------------------------------
+
 v1.0.14 - Feb 14 2021
 * Added Animated Background (Rainbow)
 * Added Settings save playback settings
