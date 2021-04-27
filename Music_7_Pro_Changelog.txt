@@ -1,5 +1,5 @@
 
-v1.1.0 - Releasing Soon..!
+v1.1.0 - Apr 27 2021
 * Added Rainbow Text (Settings)
 * Added Multi Language Support (Settings)
 * Added Player Racks
