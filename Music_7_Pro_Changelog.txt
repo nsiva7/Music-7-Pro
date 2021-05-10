@@ -1,4 +1,11 @@
 
+v1.1.1 - Releasing Soon...
+* Added 36 Fluid Types
+* Crashes Fix
+* Enhancements
+
+------------------------------------
+
 v1.1.0 - Apr 27 2021
 * Added Rainbow Text (Settings)
 * Added Multi Language Support (Settings)
