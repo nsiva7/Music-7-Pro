@@ -1,5 +1,16 @@
 
-v1.1.1 - Releasing Soon...
+v2.0.0 - Releasing on Feb 2022
+* Added New Fluid Types
+* Added New Free Players
+* Added Snow Fall with customisation
+* Added Rainbow Text customisation
+* Added Option Skip songs lessthan 1 minute
+* Many more
+* Enhancements and Fixes
+
+------------------------------------
+
+v1.1.1 - May 10 2021
 * Added 36 Fluid Types
 * Crashes Fix
 * Enhancements
