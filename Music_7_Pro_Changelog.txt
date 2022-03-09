@@ -1,5 +1,5 @@
 
-v2.0.0 - Releasing Soon... Please Wait
+v2.0.0 - 9 Mar 2022
 * Added New Fluid Types
 * Added New Free Players
 * Added Snow Fall with customisation
