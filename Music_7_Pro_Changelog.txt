@@ -1,4 +1,11 @@
 
+v2.0.1 - Releasing Soon...
+* Added Make Your Own Theme Concept
+* Fixed Try Players and Effects
+* Fixed Previous playlists and favorites not displaying
+
+------------------------------------
+
 v2.0.0 - 9 Mar 2022
 * Added New Fluid Types
 * Added New Free Players
