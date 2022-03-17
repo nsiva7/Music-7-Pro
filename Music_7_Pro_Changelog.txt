@@ -1,5 +1,13 @@
 
-v2.0.1 - Releasing Soon...
+v2.0.3 - Releasing Soon...
+* Added new player Circles
+* Added new List Styles
+* Added Settings option Fullscreen
+* Fixed crashes
+
+------------------------------------
+
+v2.0.2 - 12 Mar 2022
 * Added Make Your Own Theme Concept
 * Fixed Try Players and Effects
 * Fixed Previous playlists and favorites not displaying
