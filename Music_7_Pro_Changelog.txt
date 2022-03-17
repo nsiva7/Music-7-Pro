@@ -1,5 +1,5 @@
 
-v2.0.3 - Releasing Soon...
+v2.0.3 - 18 Mar 2022
 * Added new player Circles
 * Added new List Styles
 * Added Settings option Fullscreen
