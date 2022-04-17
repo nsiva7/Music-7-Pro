@@ -1,5 +1,5 @@
 
-v2.0.5 - Releasing Soon...
+v2.0.5 - 8 Apr 2022
 * Added 2 New Players
 * Added Tag Editor Image Change.
 
