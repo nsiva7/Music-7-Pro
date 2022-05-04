@@ -2,6 +2,8 @@
 The Ultimate Music Player for Android.
 Best Android Music Player.
 
+https://nsiva7.github.io/Music-7-Pro/
+
 </br>Get it from PlayStore [Click here](https://play.google.com/store/apps/details?id=siva.app.music7pro)
 
 # Liked my work?
