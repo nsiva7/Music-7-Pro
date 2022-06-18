@@ -1,3 +1,21 @@
+v2.1.0 - In Review - Available soon.
+* Added Home (Beautiful place where you can easily find a nice song for the moment).
+* Added Music Quotes in Home.
+* Added Song Suggestions in Home.
+* Added Most Played Songs in Home.
+* Added Web Player.
+* Added Player On Air.
+* Added Player Classic.
+* Added Player Curved.
+* Added Player Transparent.
+* Added Player Tiles.
+* Added New Fonts.
+
+* Fix Visualization not working on some devices.
+* Fix Favorites & Playlists not working on some devices.
+* Improved UI Performance.
+
+------------------------------------
 
 v2.0.5 - 8 Apr 2022
 * Added 2 New Players
