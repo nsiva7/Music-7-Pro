@@ -1,4 +1,4 @@
-v2.1.0 - In Review - Available soon.
+v2.1.1 - 27 Jun 2022
 * Added Home (Beautiful place where you can easily find a nice song for the moment).
 * Added Music Quotes in Home.
 * Added Song Suggestions in Home.
