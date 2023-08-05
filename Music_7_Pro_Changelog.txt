@@ -1,3 +1,23 @@
+v2.2.0 - Releasing Soon...
+* [Removed] In App Purchases & Subscriptions
+* [Added] Settings Resume Call Playback
+* [Added] Song option Play Song Album
+* [Added] Song option Open Album
+* [Added] Song option Open Artist
+* [Added] Queue in Slide Menu
+* [Added] Song option Play Only This Song
+* [Added] Songs added dates in New Songs List
+* [Added] Song progress in Home
+* [Added] Current Playing Song Highlighted
+* [Added] Voice Search (Long Press Search Icon)
+* [Replaced] Snow with Particles 
+* [Updated] Web Player to WiFi Player
+* [Fix] Equalizer not working in some devices
+* [Fix] Shuffle not working in some cases
+* [Fix] Visualization issue in some devices
+
+------------------------------------
+
 v2.1.2 - 27 Jun 2022
 * Added Home (Beautiful place where you can easily find a nice song for the moment).
 * Added Music Quotes in Home.
