@@ -1,4 +1,13 @@
-v2.2.0 - Releasing Soon...
+v2.2.4 - Releasing Soon...
+* [Added] Manage Music Folders
+
+* [Fix] Language Translations
+* [Fix] Black screen in some devices
+* [Fix] Crashes and Issues
+
+------------------------------------
+
+v2.2.0 - 15 Aug 2023
 * [Removed] In App Purchases & Subscriptions
 * [Added] Settings Resume Call Playback
 * [Added] Song option Play Song Album
