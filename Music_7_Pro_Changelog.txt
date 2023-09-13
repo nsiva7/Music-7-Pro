@@ -1,4 +1,4 @@
-v2.2.5 - Releasing Soon...
+v2.2.5 - 13 Sep 2023
 * [Added] Manage Music Folders
 
 * [Fix] Language Translations
