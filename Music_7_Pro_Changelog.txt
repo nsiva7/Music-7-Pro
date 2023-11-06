@@ -1,4 +1,4 @@
-v2.3.0 - Releasing Soon...
+v2.3.0 - 6 Nov 2023
 * [Added] Effects - Added Visualization Option
 * [Added] Play At (Play song at certain duration Ex.Birthday Music)
 * [Added] Custom wallpaper dim option
