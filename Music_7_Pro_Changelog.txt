@@ -12,8 +12,8 @@ v2.3.0 - Releasing Soon...
 * [Fix] Albums not displaying in some devices
 * [Fix] App Shortcuts
 * [Fix] Custom Wallpaper Background
-* [Fix] Equalizer in some devices
-* [Fix] Visualization in some devices
+* [Fix] Equalizer not working in some devices
+* [Fix] Visualization not working in some devices
 
 ------------------------------------
 
