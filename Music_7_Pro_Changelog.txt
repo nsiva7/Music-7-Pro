@@ -1,3 +1,22 @@
+v2.3.0 - Releasing Soon...
+* [Added] Effects - Added Visualization Option
+* [Added] Play At (Play song at certain duration Ex.Birthday Music)
+* [Added] Custom wallpaper dim option
+* [Added] Restore defaults option in Effects and Settings
+* [Added] Follow option in side menu (WhatsApp Channel)
+
+* [Update] Recent albums display first
+* [Update] Updated Side Menu, Effects and Settings UI
+* [Update] Sleep UI updated
+
+* [Fix] Albums not displaying in some devices
+* [Fix] App Shortcuts
+* [Fix] Custom Wallpaper Background
+* [Fix] Equalizer in some devices
+* [Fix] Visualization in some devices
+
+------------------------------------
+
 v2.2.5 - 13 Sep 2023
 * [Added] Manage Music Folders
 
