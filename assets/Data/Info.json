@@ -1,13 +1,13 @@
 {
     "update" : {
         "version_name" : "2.2.5",
-        "version_code" : 225,
+        "version_code" : 225
     },
     "message" : {
         "version" : 0,
         "title" : "0",
         "description" : "0",
-        "types": ["GREETING", "INFO", "MESSAGE", "ALERT"],
+        "types": ["GREETING", "INFO", "MESSAGE", "ALERT", "DONATE", "CANCEL"],
         "type": "",
         "primaryAction" : {
             "name" : "Donate",
