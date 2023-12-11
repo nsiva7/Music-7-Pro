@@ -6,16 +6,16 @@
     "message" : {
         "version" : 1,
         "title" : "Dear Music 7 Pro users",
-        "description" : "We are beyond thrilled to share some amazing news with all of you - Music 7 Pro has reached a remarkable milestone of 1 million downloads! This accomplishment would not have been possible without your incredible support and loyalty.\nWe want to express our deepest gratitude to each and every one of you for choosing Music 7 Pro as your go-to music app. Your enthusiasm, feedback, and word-of-mouth recommendations have played a significant role in helping us achieve this milestone.\nReaching 1 million downloads is more than just a number; it is a testament to the trust and confidence you have placed in us. We are humbled by your continuous support and are motivated to make Music 7 Pro even better in the future.\nTo celebrate this milestone, we have some exciting plans in store. We will be introducing new features, enhancing the user experience, and expanding our music library to cater to your evolving musical preferences. Your satisfaction and enjoyment remain our top priorities, and we are dedicated to delivering the best possible music app for you.\nOnce again, thank you for being a part of this incredible journey. Your downloads have made Music 7 Pro a resounding success, and we are honored to have you as our valued users. We look forward to bringing you more exciting updates and providing you with the ultimate music experience.\nWith deepest appreciation.\n\n[Siva Nimmala] and the Music 7 Pro team",
+        "description" : "😍 We are beyond thrilled to share some amazing news with all of you - Music 7 Pro has reached a remarkable milestone of 1 million downloads!\n\n🤝This accomplishment would not have been possible without your incredible support and loyalty.\n\n🤩We want to express our deepest gratitude to each and every one of you for choosing Music 7 Pro as your go-to music app.\n\nYour enthusiasm, feedback, and word-of-mouth recommendations have played a significant role in helping us achieve this milestone😊.\n\nReaching 1 million downloads is more than just a number, it is a testament to the trust and confidence you have placed in us.\n\nWe are humbled🤗 by your continuous support and are motivated to make Music 7 Pro even better in the future.\n\n💫To celebrate this milestone, we have some exciting upcoming features. We will be introducing new features, enhancing the user experience, and expanding our music library to cater to your evolving musical preferences.\n\n🥰Your satisfaction and enjoyment remain our top priorities, and we are dedicated to delivering the best possible music app for you.\n\n💕Once again, thank you😍 for being a part of this incredible journey.\n\nYour downloads have made Music 7 Pro a resounding success, and we are honored to have you as our valued users🤗.\n\nWe look forward to bringing you more exciting updates and providing you with the ultimate music experience🎸🎶.\n\n\nWith deepest appreciation.\n[Siva Nimmala] and the Music 7 Pro team",
         "types": ["GREETING", "INFO", "MESSAGE", "ALERT", "DONATE", "CANCEL"],
         "type": "",
         "primaryAction" : {
-            "name" : "Donate",
-            "action": "DONATE"
+            "name" : "Ok",
+            "action": ""
         },
         "secondaryAction" : {
-            "name" : "Later",
-            "action": "CANCEL"
+            "name" : "",
+            "action": ""
         }
     }
 }
