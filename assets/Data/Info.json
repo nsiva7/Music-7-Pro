@@ -1,22 +1,34 @@
 {
-    "update" : {
-        "version_name" : "2.2.5",
-        "version_code" : 225
+    "update": {
+        "version_name": "2.2.5",
+        "version_code": 225
     },
-    "message" : {
-        "version" : 0,
-        "title" : "Dear Music 7 Pro Users",
-        "description" : "😍 We are beyond thrilled to share some amazing news with all of you.\nMusic 7 Pro has reached a remarkable milestone of 1 million downloads!\n\n🤝 This accomplishment would not have been possible without your incredible support and loyalty.\n\n🤩 We want to express our deepest gratitude to each and every one of you for choosing Music 7 Pro as your go-to music app.\n\n🥳 Your enthusiasm, feedback, and word-of-mouth recommendations have played a significant role in helping us achieve this milestone 😊\n\n😍 Reaching 1 million downloads is more than just a number, it is a testament to the trust and confidence you have placed in us.\n\n🥰 We are humbled 🤗 by your continuous support and are motivated to make Music 7 Pro even better in the future.\n\n💫 To celebrate this milestone, we have some exciting upcoming features.\nWe will be introducing new features, enhancing the user experience, and expanding our music library to cater to your evolving musical preferences.\n\n🥰 Your satisfaction and enjoyment remain our top priorities, and we are dedicated to delivering the best possible music app for you.\n\n💕 Once again, thank you 😍 for being a part of this incredible journey.\n\n🤝 Your downloads have made Music 7 Pro a resounding success, and we are honored to have you as our valued users 🤗.\n\n🤩 We look forward to bringing you more exciting updates and providing you with the ultimate music experience 🎸🎺.\n\n❤️ With deepest appreciation ❤️\n[Siva Nimmala] and the Music 7 Pro [Team]",
-        "types": ["GREETING", "INFO", "MESSAGE", "ALERT", "DONATE", "CANCEL"],
+    "message": {
+        "version": 1,
+        "title": " 🎄 Merry Christmas from [Music 7 Pro] 🎶 Spread the Joy and Give Back!",
+        "description": "Dear [Music 7 Pro] Fam,\\n\\nWishing you a harmonious and joyous Christmas filled with music that warms your heart and soul! \uD83C\uDF85\uD83C\uDFB6\\n\\nAs we celebrate the festive season, we want to express our gratitude for being part of the [Music 7 Pro] community. Your support has been the driving force behind the melodies and beats that resonate through our app.\\n\\nIn the spirit of giving, we invite you to join us in making a difference this Christmas. \uD83C\uDF1F This holiday season, consider contributing to our mission by making a donation. Your support allows us to continue bringing you the best music experience and to spread the love of music to even more ears around the world.\\n\\nYour generosity will not only help us improve and expand our services but will also support various charitable initiatives we are passionate about. Together, let's make this season not only about the joy of music but also about making a positive impact.\\n\\nTo donate, simply click on [Donate] button or from donation screen in our app. Every contribution, big or small, brings us a step closer to creating a more melodious and compassionate world.\\n\\nOnce again, Merry Christmas! May your days be filled with love, laughter, and the magic of music.\\n\\nWarmest wishes,\\n\\n[Siva Nimmala] & [Music 7 Pro] Team \uD83C\uDF84\uD83C\uDF81\uD83C\uDFB6",
+        "types": [
+            "GREETING",
+            "INFO",
+            "MESSAGE",
+            "ALERT",
+            "DONATE",
+            "CANCEL"
+        ],
         "type": "",
         "size": "XLARGE",
-        "sizes": ["SMALL", "MEDIUM", "LARGE", "XLARGE"],
-        "primaryAction" : {
-            "name" : "",
+        "sizes": [
+            "SMALL",
+            "MEDIUM",
+            "LARGE",
+            "XLARGE"
+        ],
+        "primaryAction": {
+            "name": "",
             "action": ""
         },
-        "secondaryAction" : {
-            "name" : "",
+        "secondaryAction": {
+            "name": "",
             "action": ""
         }
     }
