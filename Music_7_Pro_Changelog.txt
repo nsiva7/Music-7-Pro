@@ -1,3 +1,10 @@
+v2.4.0 - Releasing Soon
+* [Added] Floating Bubble
+* [Update] UI PlayPause
+* [Fix] Donate
+* [Fix] Crashes
+* [Fix] No Music Found
+
 v2.3.0 - 6 Nov 2023
 * [Added] Effects - Added Visualization Option
 * [Added] Play At (Play song at certain duration Ex.Birthday Music)
