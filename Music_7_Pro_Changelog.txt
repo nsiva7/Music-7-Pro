@@ -1,3 +1,7 @@
+v2.4.1 - Releasing Soon
+* [Fix] Crashes
+* [Fix] Improved Bubble
+
 v2.4.0 - 26 Dec 2023
 * [Added] Floating Bubble
 * [Update] UI PlayPause
