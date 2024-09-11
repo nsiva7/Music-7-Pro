@@ -48,5 +48,8 @@ The Music 7 Pro Team",
             "name": "Dismiss",
             "action": ""
         }
+    },
+    "config": {
+        "showGamezopGames": true
     }
 }
