@@ -50,6 +50,6 @@ The Music 7 Pro Team",
         }
     },
     "config": {
-        "showGamezopGames": false
+        "showGamezopGames": true
     }
 }
