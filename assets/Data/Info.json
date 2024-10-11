@@ -50,6 +50,7 @@ The Music 7 Pro Team",
         }
     },
     "config": {
-        "showGamezopGames": true
+        "showGamezopGames": true,
+        "gamezopUrl": "https://pub.gamezop.com/v3/games?id=4663&lang=en"
     }
 }
