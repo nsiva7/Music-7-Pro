@@ -1,4 +1,12 @@
-v2.4.1 - Releasing Soon
+v2.5.3 - Releasing Soon
+* [Added] Added bottom navigation in all players.
+* [Added] Added options to Folders, Artist and Genres
+* [Added] Support for many languages.
+* [Update] Upgrade Side Menu to Dashboard.
+* [Update] Improved User Interface.
+* [Fix] Equalizer not working in some devices.
+
+v2.4.1 - 31 Dec 2023
 * [Fix] Crashes
 * [Fix] Improved Bubble
 
